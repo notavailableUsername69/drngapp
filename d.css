@@ -1,0 +1,17 @@
+canvas {
+    border: 0px solid #000;
+    touch-action: none;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  .controls {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+  }
+  
+  button, input[type="color"] {
+    padding: 10px 20px;
+    font-size: 16px;
+  }
